@@ -5,3 +5,4 @@ sch:
 
 Favorite:
 - https://medium.com/timetravlr-chronicles/the-fortress-of-solitude-succession-planning-in-philanthropy-349e1d9141da
+- https://allstardentalacademy.com/dental-training/create-your-fortress-of-solitude/
